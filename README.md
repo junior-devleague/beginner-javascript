@@ -123,6 +123,6 @@ _Want to find out how old you'll be? Calculate it!_
 
 ##Instructor
 _Assessment_
-https://docs.google.com/a/devleague.com/forms/d/1Qm3cgp8IqsObYl5qPYCQ4EZrcBg0uQgTr0EX4xMDVpQ/edit
+https://goo.gl/forms/eyBmF88cnBnkqMoU2
 
 **Please let your instructor know when you are finished with this assessment!**
