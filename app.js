@@ -1,0 +1,7 @@
+function fortuneTeller(){
+
+}
+
+function ageCalculator(){
+
+}
