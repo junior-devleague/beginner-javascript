@@ -5,9 +5,14 @@ JavaScript is a scripting programming language used to make web pages interactiv
 
 JavaScript is one of **3 languages** all web developers must learn:
 
-1.  **HTML** - marks the content up into different structural types and elements, like paragraphs, divs, lists, images, tables, forms, comments etc. Think of HTML as the skeleton of your web pages.
-2.  **CSS** - styles your web page by telling the browser how each type of element should be displayed. Think of CSS as the skin, hair, nails, color of the eyes, clothes, shoes, etc.
-3.  **JavaScript** - to program the behavior of your web pages. Think of JavaScript as the director that makes everything move.
+1.  **HTML** - marks the content up into different structural types and elements, like paragraphs, divs, lists, images, tables, forms, comments etc. 
+_Think of HTML as the skeleton of your web pages._
+
+2.  **CSS** - styles your web page by telling the browser how each type of element should be displayed. 
+_Think of CSS as the skin, hair, nails, color of the eyes, clothes, shoes, etc._
+
+3.  **JavaScript** - to program the behavior of your web pages. 
+_Think of JavaScript as the director that makes everything move._
 
 Ready to do some cool stuff? Let’s get started!
 
