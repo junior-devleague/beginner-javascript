@@ -20,11 +20,11 @@ Each instruction in JavaScript is a “statement”, for example:
 
 ```console.log('Hello World');```
 
-Using the **console.log( )** method is the most commonly used way to show information in your console or browser. After each statement be sure to use a semicolon ; to close out the statement. This lets the computer know that you're done with that statement or instruction.
+Using the **console.log( )** method is the most commonly used way to show information in your console or browser. After each statement be sure to use a semicolon **;** to close out the statement. This lets the computer know that you're done with that statement or instruction.
 
 Try it yourself on repl.it (https://repl.it/).
 
-You can experiment logging something different like your name or a math equation such as 2+2.
+You can experiment logging something different like your name or a math equation such as **2+2**.
 
 ##Variables
 
