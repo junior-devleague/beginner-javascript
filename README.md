@@ -30,20 +30,26 @@ Use **variables** to store values.
 
 **You can declare and initialize in two statements.** You can name these variables whatever you want to name them, in this example we will call it **x**. We will use the console.log () method to check if our code is working properly.
 
-```var x; //declares the variable x
-x = 8; //initializes the variable at 8
+```html
+Declares the variable x
+var x;
+Initializes the variable at 8
+x = 8;
 console.log(x);
 ```
 
 **Or, you can declare and initialize in one statement.**
 
-```var y = 5; //declares and initializes in one statement
+```html
+Declares and initializes in one statement
+var y = 5;
 console.log(y);
 ```
 
 **You can reassign a value to that variable later.**
 
-```var z = 4;
+```html
+var z = 4;
 z = 1;
 ```
 
@@ -53,19 +59,22 @@ Variables can hold many data types including numbers, strings, arrays, objects a
 
 **string:** A series of characters. Strings are written within quotes, you can use single or double quotes.
 
-```var greeting = 'Welcome to Paradise!'; //string using single quotes
+```html
+var greeting = 'Welcome to Paradise!'; //string using single quotes
 var restaurant = "Sushi Zushi"; //string using double quotes
 ```
 
 **number:** Numbers can be written with or without decimals.
 
-```var age = 15;
+```html
+var age = 15;
 var pi = 3.14;
 ```
 
 **boolean:** Represents logical values TRUE or FALSE.
 
-```var catsAreBest = true;
+```html
+var catsAreBest = true;
 var dogsRule = false;
 ```
 
