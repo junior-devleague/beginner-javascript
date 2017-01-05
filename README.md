@@ -22,13 +22,17 @@ Each instruction in JavaScript is a “statement”, for example:
 
 Using the **console.log( )** method is the most commonly used way to show information in your console or browser. After each statement be sure to use a semicolon ; to close out the statement. This lets the computer know that you're done with that statement or instruction.
 
-Try it yourself on repl.it(https://repl.it/). You can experiment logging something different like your name or a math equation such as 2+2.
+Try it yourself on repl.it (https://repl.it/).
+
+You can experiment logging something different like your name or a math equation such as 2+2.
 
 ##Variables
 
 Use **variables** to store values.
 
-**You can declare and initialize in two statements.** You can name these variables whatever you want to name them, in this example we will call it **x**. We will use the console.log () method to check if our code is working properly.
+**You can declare and initialize in two statements.** You can name these variables whatever you want to name them, in this example we will call it **x**.
+
+We will use the **console.log ()** method to check if our code is working properly.
 
 ```html
 Declares the variable x
@@ -82,7 +86,7 @@ var dogsRule = false;
 
 ```var notDefinedYet;```
 
-null:  Represents an explicitly empty value.
+**null:**  Represents an explicitly empty value.
 
 ```var magicTricks = null;```
 
@@ -95,11 +99,11 @@ null:  Represents an explicitly empty value.
 + Prefer camelCase for multipleWords (instead of under_score)
 + Pick a naming convention and stick with it
 
-OK:
+**OK:**
 
 ```var numPets, $mainContainer, _num, _Num;```
 
-NOT ok:
+**NOT ok:**
 
 ```var 2coolForSchool, soHappy!```
 
