@@ -100,6 +100,7 @@ OK:
 ```var numPets, $mainContainer, _num, _Num;```
 
 NOT ok:
+
 ```var 2coolForSchool, soHappy!```
 
 ##The Fortune Teller
