@@ -1,7 +1,8 @@
-#Beginner Javascript
+# Beginner Javascript
+---
+## What is Javascript?
 
-##What is Javascript?
-JavaScript is a scripting programming language used to make web pages interactive. Programming makes a computer do what you want them to by giving it a set of instructions.
+JavaScript is a scripting programming language used to make web pages interactive. Programming makes a computer do what you want it to by giving it a set of instructions.
 
 JavaScript is one of **3 languages** all web developers must learn:
 
@@ -19,8 +20,9 @@ Ready to do some cool stuff? Let’s get started!
 **Relationship Between HTML, CSS, and JavaScript**
 
 The first step in getting your web page started is setting up your files. The first file you want to create is an **index.html** file. Inside the your **index.html** file is where you will link both the CSS file and your JavaScript code.
+---
 
-##Statements
+## Statements
 
 Each instruction in JavaScript is a “statement”, for example:
 
@@ -30,9 +32,10 @@ Using the **console.log( )** method is the most commonly used way to show inform
 
 Try it yourself on repl.it (https://repl.it/).
 
-You can experiment logging something different like your name or a math equation such as **2+2**.
+You can experiment logging different things like your name or a math equation such as **2+2**.
+---
 
-##Variables
+## Variables
 
 Use **variables** to store values.
 
@@ -62,19 +65,23 @@ console.log(y);
 var z = 4;
 z = 1;
 ```
+---
 
-##Data Types
+## Data Types
 
 Variables can hold many data types including numbers, strings, arrays, objects and more! Let’s go over some of the common data types.
 
-**string:** A series of characters. Strings are written within quotes, you can use single or double quotes.
+**string:** A series of characters. Strings are written within quotes, you can use single or double quotes. You can combine strings to form larger strings using the "+" (plus sign) operator.  
 
 ```html
-var greeting = 'Welcome to Paradise!'; //string using single quotes
+var welcome = 'Welcome to'; //string using single quotes
 var restaurant = "Sushi Zushi"; //string using double quotes
+var greeting = welcome + ' ' + restaurant + '!'
+// result will be: "Welcome to Sushi Zushi!"
 ```
+Note that we have to be mindful of our spaces, so add them by using set of quotes with a space inside them. We can combine strings and variables very easily this way.
 
-**number:** Numbers can be written with or without decimals.
+**number:** Numbers can be written with or without decimals. Numbers do not have "quotes" around them, if they did, they would be declared as a string, not a number.
 
 ```html
 var age = 15;
@@ -112,23 +119,26 @@ var dogsRule = false;
 **NOT ok:**
 
 ```var 2coolForSchool, soHappy!```
-
-##The Fortune Teller
+---
+# Assessment Projects
+---
+## The Fortune Teller
 _Why pay a fortune teller when you can just program your fortune yourself?_
 + Store the following into variables: number of children, partner's name, geographic location, job title.
 + Output your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
+---
 
-
-##The Age Calculator
+## The Age Calculator
 _Want to find out how old you'll be? Calculate it!_
 + Store your birth year in a variable.
 + Store a future year in a variable.
 + Calculate your 2 possible ages for that year based on the stored values.
 + For example, if you were born in 1988, then in 2026 you'll be either 37 or 38, depending on what month it is in 2026.
 + Output them to the screen like so: "I will be either NN or NN in YYYY", substituting the values.
+---
 
-##Instructor
+## Instructor
 _Assessment_
-https://goo.gl/forms/eyBmF88cnBnkqMoU2
+[https://goo.gl/forms/eyBmF88cnBnkqMoU2]
 
 **Please let your instructor know when you are finished with this assessment!**
